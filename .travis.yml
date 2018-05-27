@@ -1,7 +1,7 @@
 language: csharp
 solution: ./Samples/Senparc.Weixin.MP.Sample.vs2017/Senparc.Weixin.MP.Sample.vs2017.sln
 mono: none
-dotnet: install dotnet-sdk-2.1.300-rc1-008673
+dotnet: 2.1.300-rc1-008673
 dist: trusty
 
 script:
